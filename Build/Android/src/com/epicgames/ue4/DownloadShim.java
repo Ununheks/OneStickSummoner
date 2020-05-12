@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.OneStickSummoner.OBBDownloaderService;
-import com.YourCompany.OneStickSummoner.DownloaderActivity;
+import com.HiLow.OneStickSummoner.OBBDownloaderService;
+import com.HiLow.OneStickSummoner.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.OneStickSummoner.OBBData;
+import com.HiLow.OneStickSummoner.OBBData;
 
 
 public class DownloadShim
